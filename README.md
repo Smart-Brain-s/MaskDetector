@@ -38,6 +38,7 @@
 </blockquote>
 
 **Connections**
+![Gpio](GPIO.png)
 <blockquote>
     <ul>
         <li>Connect the positive end of the buzzer to the Gpio pin 17 and negative end to the ground pin </li>
@@ -48,7 +49,7 @@
     Once Hardware setup is done we are ready to boot up raspberry pi 🚀
 </blockquote>
 
-
+![resp](Raspbreeypi.jpg)
 
 **Setting up directory**
 <blockquote>
