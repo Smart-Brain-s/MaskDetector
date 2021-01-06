@@ -38,6 +38,7 @@
 </blockquote>
 
 **Connections**
+
 ![Gpio](GPIO.png)
 <blockquote>
     <ul>
@@ -48,6 +49,7 @@
     </ul>
     Once Hardware setup is done we are ready to boot up raspberry pi 🚀
 </blockquote>
+
 ![resp](Raspbreeypi.jpg)
 
 **Setting up directory**
