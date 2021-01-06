@@ -48,7 +48,6 @@
     </ul>
     Once Hardware setup is done we are ready to boot up raspberry pi 🚀
 </blockquote>
-
 ![resp](Raspbreeypi.jpg)
 
 **Setting up directory**
@@ -63,6 +62,8 @@ Frist we need to setup Raspberry Pi:-
         <li>Now save that file and we are ready to run the script</li>
     </ol>
 </blockquote>
+
+**Running Project**
 
 `python rasp_mask_detector`
 
