@@ -67,7 +67,7 @@ Frist we need to setup Raspberry Pi:-
 
 **Running Project**
 
-`python rasp_mask_detector`
+`python3 rasp_mask_detector.py`
 
 **Install Dependencies Instructions**
 
