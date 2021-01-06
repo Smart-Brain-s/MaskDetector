@@ -65,3 +65,16 @@ Frist we need to setup Raspberry Pi:-
 
 `python rasp_mask_detector`
 
+**Install Dependencies Instructions**
+
+Python3 is already installed in Raspbian Os so we only need to install other packages
+
+`pip3 install tensorflow`
+
+`pip3 install opencv-python`
+
+`pip3 install imutils`
+
+`pip3 install keras`
+
+The good part is that python distributions for Raspberry pi comes with Matplotlib and Numpy with optimal versions so you dont have to worry about it 🕸
