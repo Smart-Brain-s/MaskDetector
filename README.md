@@ -1,5 +1,7 @@
 # Face Mask Detection System 🚀
 
+## [Smart Brain's website](https://somj57.github.io/smart-brain-site/) ©
+
 **Our project is based on real life problem faced by many organizations in this pendemic phase which is improper wearing of face mask which can cause serious damages to there employees and co-workers 🤖**
 
 **To deal with this problem our team `Smart Brains` have came up with the solution "The Face Mask Detection System" which can be implemented in very simple steps and at a very low cost and is very flexible**
